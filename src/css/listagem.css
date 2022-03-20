@@ -31,6 +31,10 @@
     padding-right: 20px;
 }
 
+.listagem .pokemon.ativo{
+    background-color: rgb(207, 119, 119);
+}
+
 .listagem .pokemon.pikachu:hover {
     background-color: #FCC719;
 }
